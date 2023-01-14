@@ -19,9 +19,11 @@
   <li>country — хранит названия стран.</li>  
 </ul>
 
+Описание БД тут: https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
+
 <b>Cписок запросов:</b>
 <ol>
-  <li>....</li>
+  <li>С помощью SQL-запроса выведите названия ограничений первичных ключей.</li>
   <li>....</li>
 </ol>
 
