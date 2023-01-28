@@ -21,6 +21,10 @@
 
 Описание БД тут: https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
 
+<b>Модель ER “DVD rental”:</b>
+
+![DVDrental_ERmodel](https://user-images.githubusercontent.com/38960003/215278490-69543bcd-0759-4ce9-a19b-07be7f756af2.png)
+
 <b>Cписок запросов:</b>
 <ol>
   <li>С помощью SQL-запроса выведите названия ограничений первичных ключей.</li>
